@@ -1,0 +1,61 @@
+Detailed Summary of All Models and RMSE:
+
+AAPL:
+  Best Model: LSTM
+  ARIMA: RMSE = 52.81
+  Prophet: RMSE = 57.36
+  LSTM: RMSE = 8.11
+
+MSFT:
+  Best Model: LSTM
+  ARIMA: RMSE = 90.89
+  Prophet: RMSE = 65.17
+  LSTM: RMSE = 11.93
+
+NVDA:
+  Best Model: LSTM
+  ARIMA: RMSE = 11.01
+  Prophet: RMSE = 13.18
+  LSTM: RMSE = 2.66
+
+AMZN:
+  Best Model: LSTM
+  ARIMA: RMSE = 63.62
+  Prophet: RMSE = 46.64
+  LSTM: RMSE = 11.24
+
+GOOGL:
+  Best Model: LSTM
+  ARIMA: RMSE = 42.84
+  Prophet: RMSE = 41.74
+  LSTM: RMSE = 8.32
+
+META:
+  Best Model: LSTM
+  ARIMA: RMSE = 91.47
+  Prophet: RMSE = 89.40
+  LSTM: RMSE = 15.32
+
+TSLA:
+  Best Model: LSTM
+  ARIMA: RMSE = 179.24
+  Prophet: RMSE = 190.44
+  LSTM: RMSE = 112.03
+
+BRK-B:
+  Best Model: LSTM
+  ARIMA: RMSE = 40.73
+  Prophet: RMSE = 38.67
+  LSTM: RMSE = 5.19
+
+JPM:
+  Best Model: LSTM
+  ARIMA: RMSE = 26.43
+  Prophet: RMSE = 23.36
+  LSTM: RMSE = 3.19
+
+V:
+  Best Model: LSTM
+  ARIMA: RMSE = 28.62
+  Prophet: RMSE = 17.47
+  LSTM: RMSE = 6.39
